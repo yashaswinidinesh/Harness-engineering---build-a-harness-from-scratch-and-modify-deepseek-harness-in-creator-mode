@@ -5,7 +5,7 @@
 
 ## Deliverables and links
 
-| Part | What I built | Code | YouTube walkthrough |
+| Part | What I built | Code | YouTube walkthrough 
 |------|--------------|------|---------------------|
 | A | A coding-agent harness written from scratch on the OpenRouter API, built in five progressive stages and then packaged | [`part-a-harness/`](part-a-harness) | link
 | B | DeepSeek Harness in Creator mode: five or more community plugins, plus two plugins I wrote from scratch | [`part-b-deepseek-harness/`](part-b-deepseek-harness) | link
