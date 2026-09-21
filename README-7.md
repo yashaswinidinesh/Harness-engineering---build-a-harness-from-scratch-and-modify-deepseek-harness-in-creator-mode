@@ -1,15 +1,15 @@
 # Assignment 2: Harness Engineering
 
 **Author:** Yashaswini Dinesh
-**GitHub repo:** https://github.com/PASTE_YOUR_USERNAME/PASTE_REPO_NAME
+
 
 ## Deliverables and links
 
 | Part | What I built | Code | YouTube walkthrough |
 |------|--------------|------|---------------------|
-| A | A coding-agent harness written from scratch on the OpenRouter API, built in five progressive stages and then packaged | [`part-a-harness/`](part-a-harness) | PASTE_PART_A_YOUTUBE_LINK |
-| B | DeepSeek Harness in Creator mode: five or more community plugins, plus two plugins I wrote from scratch | [`part-b-deepseek-harness/`](part-b-deepseek-harness) | PASTE_PART_B_YOUTUBE_LINK |
-| C | A custom ML harness for autoresearch: an LLM edits `train.py`, the harness runs it, scores it, and keeps or reverts the change | [`part-c-autoresearch/`](part-c-autoresearch) | PASTE_PART_C_YOUTUBE_LINK |
+| A | A coding-agent harness written from scratch on the OpenRouter API, built in five progressive stages and then packaged | [`part-a-harness/`](part-a-harness) | 
+| B | DeepSeek Harness in Creator mode: five or more community plugins, plus two plugins I wrote from scratch | [`part-b-deepseek-harness/`](part-b-deepseek-harness) | 
+| C | A custom ML harness for autoresearch: an LLM edits `train.py`, the harness runs it, scores it, and keeps or reverts the change | [`part-c-autoresearch/`](part-c-autoresearch) | 
 
 Each video is a full walkthrough of every file in that part with the code running. The Part B video also includes the
 DeepSeek Harness demos.
